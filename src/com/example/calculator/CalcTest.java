@@ -1,4 +1,4 @@
-//TEST 20161008
+//TEST 20161008 User B
 
 package com.example.calculator;
 
